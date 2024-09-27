@@ -1,4 +1,3 @@
 - Review Git merge and rebase
 - Set up Git repository
 - Practice Git branching
-- Some incorrect task
